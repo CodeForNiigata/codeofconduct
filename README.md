@@ -1,4 +1,4 @@
-# codeofconduct 日本語版
+# codeofconduct 日本語版 (Code for Niigata版)
 
 この文書は、[Code for America の Code of Conduct](https://github.com/codeforamerica/codeofconduct)を日本語訳し、若干の改変を加えた [Code for Japan の Code of Conduct](https://github.com/codeforjapan/codeofconduct) に更に若干の改変を加えた Code for Niigata の Code of Conductです。
 
